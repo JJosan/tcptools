@@ -4,9 +4,9 @@
 
 |Company    |Min    |Avg    |Max    |Stddev |
 |---        |---    |---    |---    |---    |
-|Amazon     |10ms   |12ms   |16ms   |       |
-|Google     |12ms   |20ms   |24ms   |       |
-|Microsoft  |11ms   |12ms   |13ms   |       |
+|Amazon     |10ms   |10ms   |11ms   |0.577  |
+|Google     |17ms   |19ms   |24ms   |4.041  |
+|Microsoft  |12ms   |16ms   |19ms   |3.786  |
 
 <h2>Was there any packet loss on any of the pings?</h2>
 no packet losses for any website
