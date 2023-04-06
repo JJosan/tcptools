@@ -91,10 +91,10 @@ most of the time, somes of the nodes are named ...seattle.wa.seattle.comcast.net
 |23.44.161.156      |A      |
 
 <h1>Extra credit: Using "ngrok" (2 pts)</h1>
-<img src="ngrok/Capture.jpg">
+<img src="ngrok/Capture.JPG">
 
 <h1>Extra credit: Using packet-capture tools (2 pts)</h1>
-<img src="wireshark/Capture.jpg">
+<img src="wireshark/Capture.JPG">
 
 <h1>Extra credit: Insecure web server (2 pts)</h1>
-<img src="insecurewebserver/Capture.jpg">
+<img src="insecurewebserver/Capture.JPG">
