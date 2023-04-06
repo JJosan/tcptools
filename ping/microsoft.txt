@@ -1,0 +1,9 @@
+Pinging e13678.dscb.akamaiedge.net [2600:1409:12:381::356e] with 32 bytes of data:
+Reply from 2600:1409:12:381::356e: time=12ms
+Reply from 2600:1409:12:381::356e: time=14ms
+Reply from 2600:1409:12:381::356e: time=20ms
+
+Ping statistics for 2600:1409:12:381::356e:
+    Packets: Sent = 3, Received = 3, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 12ms, Maximum = 20ms, Average = 15ms

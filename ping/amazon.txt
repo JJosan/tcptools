@@ -1,0 +1,9 @@
+Pinging d3ag4hukkh62yn.cloudfront.net [2600:9000:234d:0:7:49a5:5fd2:8621] with 32 bytes of data:
+Reply from 2600:9000:234d:0:7:49a5:5fd2:8621: time=15ms
+Reply from 2600:9000:234d:0:7:49a5:5fd2:8621: time=14ms
+Reply from 2600:9000:234d:0:7:49a5:5fd2:8621: time=11ms
+
+Ping statistics for 2600:9000:234d:0:7:49a5:5fd2:8621:
+    Packets: Sent = 3, Received = 3, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 11ms, Maximum = 15ms, Average = 13ms
